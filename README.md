@@ -1,4 +1,4 @@
-# Change
+# ChangeKit
 Change是一个系列，包含修改环境的一系列程序，每个软件使用方法完全一样
 # 统一pyinstaller打包指令
 ```
